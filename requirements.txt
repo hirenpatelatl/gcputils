@@ -1,1 +1,4 @@
+
 google-cloud
+google-api-python-client
+pytest
