@@ -7,7 +7,8 @@ gcputils
 	pip install -r requirements.txt
 	pip install -upgrade .
 
-## Install gcloud from SDK -> https://cloud.google.com/sdk/docs/quickstart-mac-os-x 
+## Install gcloud from SDK 
+	https://cloud.google.com/sdk/docs/quickstart-mac-os-x 
 	gcloud init
 	gcloud auth 
 	gcloud auth application-default login
