@@ -1,5 +1,14 @@
 gcputils
 -------------------------------
+## Attribution
+This repo implements the example code found in the Google Cloud Platform Python Dcos Samples
+	https://github.com/GoogleCloudPlatform/python-docs-samples/
+
+# Purpose 
+The main purpose of this is to practice my python packaging and testing skills.
+
+## Usage
+For usage please take a look at the /tests/integrationTest folder
 
 ## Development Instructions
 	conda create -n gcputils python=2.7
